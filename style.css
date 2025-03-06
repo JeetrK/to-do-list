@@ -2,4 +2,21 @@
     text-decoration: line-through;
     color: gray;
   }
+
+body {
+  background-image:url("https://external-preview.redd.it/virginia-rapper-nettspend-v0-YXNwdXhtY3YyZGdkMWajRfbY2coOQ_2Ke6OOCwDSPfGaxOQELehQxRKqMYpw.png?format=pjpg&auto=webp&s=b51f87434a974ac567cb4d3e1dbce34f6dfe719b");
+}
+
+#toptext {
+  font-family: "banger", sans-serif;
+font-weight: 900;
+font-style: normal;
+}
+
+#clearTaskBtn {
   
+}
+
+#clearAudio {
+  opacity: 0;
+}
